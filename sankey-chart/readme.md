@@ -10,8 +10,7 @@ En esta ocasión, se descompone la [inflación interanual de octubre 2021 en Nic
 ### Diagrama Sankey de la inflación interanual en Nicaragua | Octubre de 2021-Octubre de 2020
 ![sankey](Rplot01.png)
 
-### Nota![Rplot01](https://user-images.githubusercontent.com/59942011/145728916-6fb0fd29-eb08-49f6-a004-9bbda7b125fd.png)
-
+### Nota
 Los datos utilizados fueron previamente ordenados tal como se muestra en la hoja "Sankey"
 
 ### Fuentes:
